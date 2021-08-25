@@ -4,10 +4,11 @@ Autonomous Navigation and Communication Robot
 
 **Install the Package**
 
-cd ~/catkin_ws/src
+Clone this repo into the src folder of your catkin workspace
+
 git clone https://github.com/Avi241/ancro_description
-cd ..
-catkin_make 
+
+cd .. && catkin make
 
 **Launch the Robot in Gazebo World**
 
